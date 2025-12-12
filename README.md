@@ -47,3 +47,8 @@ b)	Storage of such sensitive user data could be moved from text files to a relat
 c)	GPS integration, push notifications, and a richer admin dashboard with analytics would make the system more powerful and closer to a production-level campus safety application.
 d)	A graphical user interface or a mobile app front-end could replace the console, making the system more user-friendly.
 
+*This is a collaborative project for CSE 1320 (Intermediate Programming).*
+### Contributors
+1.	**Kripa Neupane**
+2.	**Madhurima Shrestha**
+3.	**Dikshya Laudari**
