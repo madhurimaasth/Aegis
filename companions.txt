@@ -1,0 +1,8 @@
+Welcome to Aegis Companion File!
+
+dxl@mavs.uta.edu,12345,1020304051,Dikshya,Laudari,f,true,false,false,0
+mxs@mavs.uta.edu,12345,1020304051,Madhu,Shrestha,f,false,true,false,0
+kxn@mavs.uta.edu,12345,8347529065,Kripa,Neupane,f,flase,false,false,0
+
+
+marika@mavs.uta.edu,12345,123456789,Marika,A,f,true,true,true,0

@@ -1,0 +1,4 @@
+Welcome to Aegis Admin File!
+
+cooper@uta.edu,12345,2030405060,Cooper,Cooper,m,,police
+kxn@mavs.uta.edu,12345,1020304050,Kripa,N,f,management

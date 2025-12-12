@@ -1,0 +1,7 @@
+Welcome to Aegis Student File!
+
+kripa@mavs.uta.edu,12345,1234567890,Kripa,Neupane,f,MAC,0
+ram@mavs.uta.edu,12345,1234567890,Ram,Lama,m,MAC,2
+liam@mavs.uta.edu,liam123,1245734914,Liam,Carter,m,UNIVERSITY_CENTER,0
+emma@mavs.uta.edu,emma123,1349726184,Emma,Brooks,f,LIBRARY,0
+ava@mavs.uta.edu,ava123,9727435780,Ava,Morgan,f,KC_HALL,1
